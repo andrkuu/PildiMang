@@ -10,6 +10,9 @@ Kui kõik viisteist väikest pilti on õigel kohal on pilt lahendatud. Vajutades
 
 Osalesid : Jaanus Lille Taavi Luur Henri Mägi Hans Robert Noor Andreas Kuuskaru.
 
-![pilt1](https://user-images.githubusercontent.com/55129119/117655789-31018900-b1a0-11eb-9970-b0d095244f69.jpg)
+![pilt1](https://user-images.githubusercontent.com/55129119/117656265-d1f04400-b1a0-11eb-8b4c-94985b9e14fc.jpg)
+Pilt lahendatud kujul.
 
-![pilt2](https://user-images.githubusercontent.com/55129119/117655799-34951000-b1a0-11eb-9baa-f6ab1ff21711.jpg)
+![pilt2](https://user-images.githubusercontent.com/55129119/117656277-d4eb3480-b1a0-11eb-8b94-bf78617f47eb.jpg)
+Pilt mis vajab lahendamist
+
