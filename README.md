@@ -8,3 +8,4 @@ Mängija eesmärgiks on seejärel väikesed pildid taas oma õigetele asukohtade
 
 Kui kõik viisteist väikest pilti on õigel kohal on pilt lahendatud. Vajutades nupule "VAHETA PILTI", kuvatakse mängijale uus pilt, mida peale segamist saab taaskord lahendama hakata.
 
+Osalesid : Jaanus Lille Taavi Luur Henri Mägi Hans Robert Noor Andreas Kuuskaru.
