@@ -9,19 +9,21 @@
     
 
     <ContentView SizeChanged="OnContainerSizeChanged"
-                 BackgroundColor="#009988">
+                 BackgroundColor="Black">
         <StackLayout x:Name="stackLayout">
             
 
             <Button Text="Sega"
-                    BackgroundColor="#009988"
+                    TextColor="WhiteSmoke"
+                    BackgroundColor="Black"
                     BorderColor="ForestGreen"
                     Clicked="OnRandomizeButtonClicked"
                     HorizontalOptions="CenterAndExpand"
                     VerticalOptions="CenterAndExpand" />
 
             <Button Text="Vaheta pilti"
-                    BackgroundColor="#009988"
+                    TextColor="WhiteSmoke"
+                    BackgroundColor="Black"
                     BorderColor="ForestGreen"
                     Clicked="OnChangePictureButtonClicked"
                     HorizontalOptions="CenterAndExpand"
