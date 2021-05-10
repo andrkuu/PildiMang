@@ -17,9 +17,9 @@ Osalesid : Jaanus Lille Taavi Luur Henri Mägi Hans Robert Noor Andreas Kuuskaru
 
 Dependencies :
 <ul>
-<li>NETStandard.Library</li>
+<li>NETStandard.Library
 
-<li>Xamarin.Essentials<\li>
+<li>Xamarin.Essentials
 
 <li>Xamarin.Forms<\li>
 </ul>
