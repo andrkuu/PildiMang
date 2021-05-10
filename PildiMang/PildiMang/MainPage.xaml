@@ -14,6 +14,7 @@
             
 
             <Button Text="Sega"
+                    FontSize="Large"
                     TextColor="WhiteSmoke"
                     BackgroundColor="Black"
                     BorderColor="ForestGreen"
@@ -21,7 +22,8 @@
                     HorizontalOptions="CenterAndExpand"
                     VerticalOptions="CenterAndExpand" />
 
-            <Button Text="Vaheta pilti"
+            <Button Text="Vaheta pilti" 
+                    FontSize="Large"
                     TextColor="WhiteSmoke"
                     BackgroundColor="Black"
                     BorderColor="ForestGreen"
