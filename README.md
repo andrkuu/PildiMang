@@ -21,7 +21,7 @@ NETStandard.Library
 
 Xamarin.Essentials
 
-Xamarin.Forms
+Xamarin.Forms\
 
 
 Compiled using Android version : 11.0 
