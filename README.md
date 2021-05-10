@@ -15,6 +15,14 @@ Osalesid : Jaanus Lille Taavi Luur Henri Mägi Hans Robert Noor Andreas Kuuskaru
 ![pilt1](https://user-images.githubusercontent.com/55129119/117656840-82f6de80-b1a1-11eb-982c-96420d09ff4d.jpg)
 ![pilt2](https://user-images.githubusercontent.com/55129119/117656851-85593880-b1a1-11eb-8fd6-944036f33d45.jpg)
 
+Dependencies :
+
+NETStandard.Library
+
+Xamarin.Essentials
+
+Xamarin.Forms
+
 
 Compiled using Android version : 11.0 
 
