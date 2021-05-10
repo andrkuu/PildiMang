@@ -17,11 +17,11 @@ Osalesid : Jaanus Lille Taavi Luur Henri Mägi Hans Robert Noor Andreas Kuuskaru
 
 Dependencies :
 
-NETStandard.Library
+<li>NETStandard.Library</li>
 
 Xamarin.Essentials
 
-Xamarin.Forms\
+Xamarin.Forms
 
 
 Compiled using Android version : 11.0 
