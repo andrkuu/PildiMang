@@ -14,3 +14,9 @@ Osalesid : Jaanus Lille Taavi Luur Henri Mägi Hans Robert Noor Andreas Kuuskaru
                 Lahendatud pilt                                           Lahendamata pilt
 ![pilt1](https://user-images.githubusercontent.com/55129119/117656840-82f6de80-b1a1-11eb-982c-96420d09ff4d.jpg)
 ![pilt2](https://user-images.githubusercontent.com/55129119/117656851-85593880-b1a1-11eb-8fd6-944036f33d45.jpg)
+
+
+Compiled using Android version : 11.0 
+Version 1
+Minimum Android version : 5.0 ( API Level 21 - Lollipop)
+Target Android version : Android 11.0 ( API Level 30)
