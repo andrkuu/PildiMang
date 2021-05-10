@@ -21,7 +21,7 @@ Dependencies :
 
 <li>Xamarin.Essentials
 
-<li>Xamarin.Forms<\li>
+<li>Xamarin.Forms
 </ul>
 
 Compiled using Android version : 11.0 
