@@ -4,8 +4,8 @@ using Xamarin.Forms;
 
 namespace PildiMang
 {
-	public class Tile
-	{
+    public class Tile
+    {
         const string UrlPrefix = "https://www.tlu.ee/~tluur/img/";
         public Tile(int row, int col, int randomNumber)
         {
