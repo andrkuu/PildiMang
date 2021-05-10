@@ -17,6 +17,10 @@ Osalesid : Jaanus Lille Taavi Luur Henri Mägi Hans Robert Noor Andreas Kuuskaru
 
 
 Compiled using Android version : 11.0 
+
 Version 1
+
 Minimum Android version : 5.0 ( API Level 21 - Lollipop)
+
 Target Android version : Android 11.0 ( API Level 30)
+
