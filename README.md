@@ -8,6 +8,8 @@ Mängija eesmärgiks on seejärel väikesed pildid taas oma õigetele asukohtade
 
 Kui kõik viisteist väikest pilti on õigel kohal on pilt lahendatud. Vajutades nupule "VAHETA PILTI", kuvatakse mängijale uus pilt, mida peale segamist saab taaskord lahendama hakata.
 
+Rakenduse tööle panemiseks on vaja kõigepealt paigaldada visual studio koos xamariniga. Samuti on vaja paigaldada Android SDK ning vajaduse korral emulaator, kui füüsilist seadet ei ole. Pärast seadistamist valid ülevalt menüüst sobiva seade kuhu rakendus installida ning rakendus läheb käima.
+
 Osalesid : Jaanus Lille Taavi Luur Henri Mägi Hans Robert Noor Andreas Kuuskaru.
 
 
