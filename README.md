@@ -36,4 +36,5 @@ Dependencies :
 
 > Target Android version : Android 11.0 ( API Level 30)
 
-
+Pooleli olev repo:
+Jaanuse pooleli repositoorium: https://github.com/JaanusLille/PildiMangV1
