@@ -6,16 +6,23 @@
         <OnPlatform x:TypeArguments="Thickness"
                     iOS="0, 20, 0, 0" />
     </ContentPage.Padding>
+    
 
-    <ContentView SizeChanged="OnContainerSizeChanged">
+    <ContentView SizeChanged="OnContainerSizeChanged"
+                 BackgroundColor="#009988">
         <StackLayout x:Name="stackLayout">
+            
 
             <Button Text="Sega"
+                    BackgroundColor="#009988"
+                    BorderColor="ForestGreen"
                     Clicked="OnRandomizeButtonClicked"
                     HorizontalOptions="CenterAndExpand"
                     VerticalOptions="CenterAndExpand" />
 
             <Button Text="Vaheta pilti"
+                    BackgroundColor="#009988"
+                    BorderColor="ForestGreen"
                     Clicked="OnChangePictureButtonClicked"
                     HorizontalOptions="CenterAndExpand"
                     VerticalOptions="CenterAndExpand" />
